@@ -98,7 +98,7 @@
             button2.Name = "button2";
             button2.Size = new Size(94, 29);
             button2.TabIndex = 5;
-            button2.Text = "button2";
+            button2.Text = "type two";
             button2.UseVisualStyleBackColor = true;
             button2.Click += button2_Click;
             // 
@@ -109,7 +109,7 @@
             button3.Name = "button3";
             button3.Size = new Size(94, 29);
             button3.TabIndex = 6;
-            button3.Text = "button3";
+            button3.Text = "None";
             button3.UseVisualStyleBackColor = true;
             button3.Click += button3_Click;
             // 
@@ -131,7 +131,7 @@
             button5.Name = "button5";
             button5.Size = new Size(94, 29);
             button5.TabIndex = 8;
-            button5.Text = "button5";
+            button5.Text = "None";
             button5.UseVisualStyleBackColor = true;
             button5.Click += button5_Click;
             // 
@@ -142,7 +142,7 @@
             button6.Name = "button6";
             button6.Size = new Size(94, 29);
             button6.TabIndex = 9;
-            button6.Text = "button6";
+            button6.Text = "None";
             button6.UseVisualStyleBackColor = true;
             button6.Click += button6_Click;
             // 
